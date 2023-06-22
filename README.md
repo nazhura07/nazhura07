@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @nazhura07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm @smilling
+- 👀 I'm interested in the world of programmers
+- 🌱 I'm learning to program
+- 💞️ I want to collaborate in all information technology companies
+- 📫 How to contact me by sending an email at nalanafisah007@mail.com
+
+remember me as smilling i love to smile
 
 <!---
-nazhura07/nazhura07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+smilling/smilling is a special ✨ repository ✨ because `README.md` (this file) appears in your GitHub profile.
+You can click the Preview link to see your changes.
 --->
-git config --global user.email "nalanafisah007@mail.com" git config --global user.name "nazhura07"
+git config --global user.email "nalanafisah007@mail.com" git config --global user.name "smilling"
